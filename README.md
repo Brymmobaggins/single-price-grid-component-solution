@@ -1,16 +1,11 @@
 # front-end mentor - Single price grid challenge
 
-This is solution to [single price grid challenge]
-
-## overview
-
-### the challenge
 
 ## Continued development
 
-so far i am i built the desktop design of the challenge, defintlely would work all mobile view and responsiveness in the various sizes
+so far, I  built the desktop design of the challenge, definately would work all mobile view and responsiveness in the various sizes
 
-## what i learned
+## what I learned
 
 ```html
  <small>I am proud of this</small>, '&dollar' sign, which was helpful in the project.
@@ -20,21 +15,13 @@ so far i am i built the desktop design of the challenge, defintlely would work a
 
 ## links
 
-- solution URL:
-- live site URL
-
-## My process
-
+[live](https://brymmobaggins.github.io/single-price-grid-component-solution/)
 ## Built with
 
 - semantic HTML5 mark up
 - flexbox
 - css grid
-  
-### Author
 
-- webiste -[Ibrahim Bakare]
-- Frontend mentor -[]
-- Twitter -[@brymmobaggins]
-  
-### Acknowledgment *
+## Screenshot 
+
+![Project img](./images/SinglePriceGirid_Screenshot.png) 
